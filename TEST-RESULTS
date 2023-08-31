@@ -1,0 +1,2 @@
+Zadatak kaže: Kalkulator funkcioniše tako što korisnik unese kompletan aritmetički izraz (npr. 4+5 ili 10+5*4+3).
+Međutim, ovaj program ne omogućava unos od strane korisnika,već pri svakom pokretanju daje iste rezultate. 
